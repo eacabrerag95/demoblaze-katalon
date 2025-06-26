@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>CompraProductos</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>d73de620-5ac4-40c2-8c9b-6a8faffe27ad</testCaseGuid>
+</TestCaseEntity>
